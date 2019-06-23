@@ -12,5 +12,5 @@ It is a repository of static web game made with vanilla javascipt
 6. sisth week 7/29~8/2 카드짝마추기 게임, 자스스톤
 7. fifth week 8/5~8/9 2048게임, 테트리스
 
-If you want to follow this study, just make your own branch and commit & push to it.
+If you want to follow this study, just fork this repository and commit&push to your forked repository. :)
 
